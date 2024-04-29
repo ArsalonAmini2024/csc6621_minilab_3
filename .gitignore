@@ -1,0 +1,6 @@
+kmnist-test.imgs.npz
+kmnist-test.labels.npz
+kmnist-train.imgs.npz
+kmnist-train.labels.npz
+
+minilab3_venv/

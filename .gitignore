@@ -4,3 +4,5 @@ kmnist-train.imgs.npz
 kmnist-train.labels.npz
 
 minilab3_venv/
+
+.DS_Store
